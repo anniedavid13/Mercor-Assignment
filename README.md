@@ -12,11 +12,13 @@ For the second section, I have cloned the fancy scrolling animations located on 
 
 
 ## Deployment
-I have deployed the cloned sections as a website. You can access it using the following link:
+I have deployed the cloned sections as a website. You can access it using the following link: https://annie-david-mercor-assignment.netlify.app/
 
 
 For further questions or communication, I can be reached at:
 email: anniedavid407@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/annie-david/
+
 Phone No. : +918826478935
 
