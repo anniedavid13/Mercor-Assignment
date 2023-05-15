@@ -1,0 +1,42 @@
+.container {
+  padding: 0 3rem;
+}
+
+.textreveal-wrapper {
+  position: relative;
+  height: 300vh;
+}
+
+.textreveal-sticky {
+  position: sticky;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  padding: 5rem 0;
+}
+
+.textreveal-inner {
+  width: 100%;
+  height: 100%;
+  max-width: 60rem;
+}
+
+.textreveal-wrapper span {
+  display: inline-block;
+  transition: opacity 0.2s linear;
+  margin-right: 10px;
+}
+
+.main-text {
+  position: absolute;
+  font-size: 3.5rem;
+  font-weight: 600;
+}
+
+.bold-text {
+  color: white;
+}
+
+.semibold-text {
+  color: rgba(212, 212, 212, 0.158);
+}
